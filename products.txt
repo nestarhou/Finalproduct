@@ -1,0 +1,2 @@
+001|Book|12.00|Romantic|2
+002|Pen|2.00|Blue|3

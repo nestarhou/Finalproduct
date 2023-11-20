@@ -1,0 +1,3 @@
+ID	Name	Price	Description	Stock		Total Value
+002	Pen	$2.00	Blue...	3	$6.00
+001	Book	$12.00	Romantic...	2	$24.00
